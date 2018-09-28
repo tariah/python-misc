@@ -1,0 +1,5 @@
+BEANS R US NORMAL PRICE
+http://www.beans-r-us.appspot.com/prices.html
+
+BEANS R US LOYALTY PRICE
+http://www.beans-r-us.appspot.com/prices-loyalty.html
